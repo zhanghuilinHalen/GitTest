@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(vpid){
-    in no
+    int  no
 
     printf("请输入一个整数：");
     scanf("%d",&no);
